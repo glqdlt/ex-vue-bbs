@@ -12,7 +12,8 @@
   "dependencies": {
     "vue": "^2.5.11",
     "vue-input-tag": "^1.0.3",
-    "vue-wysiwyg": "^1.7.0"
+    "vue-wysiwyg": "^1.7.0",
+    "vuetable-2": "^1.7.5"
   },
   "browserslist": [
     "> 1%",

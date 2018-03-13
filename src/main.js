@@ -5,6 +5,8 @@ import wysiwyg from "vue-wysiwyg"
 import InputTag from 'vue-input-tag'
 
 
+
+
 Vue.use(wysiwyg, {});
 Vue.component('input-tag', InputTag);
 
